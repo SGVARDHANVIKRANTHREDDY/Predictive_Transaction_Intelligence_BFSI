@@ -1,0 +1,49 @@
+2025-11-02 13:02:30,324 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:02:30,343 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:02:30,343 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:02:31,490 | INFO | root | Starting Part2 app
+2025-11-02 13:02:31,506 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:02:31,506 | INFO | root | Loading model from C:\Users\sgvar\project no 1\Module4_Deployment\models\XGBoost_tuned.pkl
+2025-11-02 13:02:33,553 | INFO | root | Loaded model from C:\Users\sgvar\project no 1\Module4_Deployment\models\XGBoost_tuned.pkl
+2025-11-02 13:02:33,566 | INFO | root | Loading model from C:\Users\sgvar\project no 1\Module4_Deployment\models\LightGBM_tuned.pkl
+2025-11-02 13:02:35,478 | INFO | root | Loaded model from C:\Users\sgvar\project no 1\Module4_Deployment\models\LightGBM_tuned.pkl
+2025-11-02 13:03:19,233 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:19,242 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:19,244 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:19,258 | INFO | root | Starting Part2 app
+2025-11-02 13:03:19,259 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:23,622 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:23,627 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:23,630 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:23,645 | INFO | root | Starting Part2 app
+2025-11-02 13:03:23,646 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:28,860 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:28,867 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:28,869 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:28,888 | INFO | root | Starting Part2 app
+2025-11-02 13:03:28,888 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:32,685 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:32,688 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:32,690 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:32,701 | INFO | root | Starting Part2 app
+2025-11-02 13:03:32,701 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:36,800 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:36,806 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:36,808 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:36,815 | INFO | root | Starting Part2 app
+2025-11-02 13:03:36,815 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:41,797 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:41,806 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:41,808 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:41,830 | INFO | root | Starting Part2 app
+2025-11-02 13:03:41,830 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:03:56,081 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:03:56,085 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:03:56,085 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:03:56,098 | INFO | root | Starting Part2 app
+2025-11-02 13:03:56,099 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
+2025-11-02 13:14:48,266 | INFO | fraud_part1 | Starting Part 1 (Core Auth)
+2025-11-02 13:14:48,275 | WARNING | fraud_part1 | Failed to create demo admin: Password must be at least 8 characters.
+2025-11-02 13:14:48,280 | INFO | fraud_part1 | Database initialization completed.
+2025-11-02 13:14:48,302 | INFO | root | Starting Part2 app
+2025-11-02 13:14:48,302 | INFO | root | SQLite DB initialized at C:\Users\sgvar\project no 1\Module4_Deployment\deployment\data\part2_transactions.sqlite
