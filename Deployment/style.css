@@ -1,0 +1,162 @@
+/* ==========================================================
+   style.css — Professional BFSI Dashboard Theme (Light Mode)
+   ========================================================== */
+
+/* ---------- GLOBAL BASE ---------- */
+body {
+    background-color: #f8fafc;
+    color: #1a202c;
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* ---------- HEADER & TITLES ---------- */
+h1, h2, h3, h4 {
+    color: #003087; /* Deep corporate blue */
+    font-weight: 600;
+}
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+}
+
+/* ---------- KPI CARDS ---------- */
+.kpi {
+    padding: 18px;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #ffffff, #e9f0ff);
+    box-shadow: 0 3px 10px rgba(0, 56, 135, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.kpi:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 56, 135, 0.12);
+}
+
+/* ---------- SIDEBAR ---------- */
+[data-testid="stSidebar"] {
+    background: #f1f5fb !important;
+    color: #1a202c !important;
+    border-right: 1px solid #d0d7e2;
+}
+[data-testid="stSidebar"] * {
+    color: #1a202c !important;
+}
+[data-testid="stSidebar"] h2 {
+    color: #003087 !important;
+    font-weight: 600;
+}
+
+/* ---------- BUTTONS ---------- */
+div.stButton > button {
+    background: linear-gradient(90deg, #004B87, #0078D7);
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    font-weight: 600;
+    box-shadow: 0 3px 6px rgba(0, 56, 135, 0.2);
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+div.stButton > button:hover {
+    background: linear-gradient(90deg, #005fa3, #0094ff);
+    transform: translateY(-2px);
+}
+
+/* ---------- TABLES ---------- */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+}
+thead {
+    background-color: #e9f0ff;
+    color: #003087;
+    font-weight: bold;
+}
+tbody tr:hover {
+    background-color: #f7fafc;
+}
+
+/* ---------- INPUTS & FORMS ---------- */
+.stTextInput > div > div > input,
+.stNumberInput > div > div > input,
+.stSelectbox > div > div,
+.stDateInput > div > div > input,
+.stTimeInput > div > div > input {
+    border: 1px solid #cbd5e0 !important;
+    border-radius: 8px !important;
+    background-color: #ffffff !important;
+    color: #1a202c !important;
+}
+.stTextInput > div > div > input:focus,
+.stNumberInput > div > div > input:focus {
+    border-color: #0078D7 !important;
+    box-shadow: 0 0 0 3px rgba(0, 120, 215, 0.2);
+}
+
+/* ---------- ALERTS ---------- */
+.stAlert {
+    background-color: #f0f4ff !important;
+    border-left: 5px solid #004B87 !important;
+    color: #1a202c !important;
+}
+
+/* ---------- LINKS ---------- */
+a {
+    color: #004B87 !important;
+    text-decoration: none !important;
+    font-weight: 500;
+}
+a:hover {
+    color: #0078D7 !important;
+}
+
+/* ---------- METRIC / BADGES ---------- */
+[data-testid="stMetricValue"] {
+    color: #004B87;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+[data-testid="stMetricLabel"] {
+    color: #2d3748;
+}
+
+/* ---------- CUSTOM HEADER BAR ---------- */
+.top-bar {
+    background-color: #004B87;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+.top-bar h2 {
+    margin: 0;
+    font-weight: 600;
+}
+
+/* ---------- CARDS / BOXES ---------- */
+.card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 3px 8px rgba(0, 56, 135, 0.08);
+    transition: transform 0.2s ease;
+}
+.card:hover {
+    transform: translateY(-3px);
+}
+
+/* ---------- FOOTER ---------- */
+.footer {
+    text-align: center;
+    font-size: 13px;
+    color: #718096;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-top: 1px solid #e2e8f0;
+}
